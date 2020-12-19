@@ -23,4 +23,4 @@ grep: 文件内容搜索
 grep 搜索的艺术 * -r
 source/_posts/2013-01-07-ubuntu-efficient-software.markdown:## 搜索的艺术：find & grep
 ```
-* 是指搜索当前目录的所有文件， -r 是指递归当前目录进行搜索。
+`*` 是指搜索当前目录的所有文件， -r 是指递归当前目录进行搜索。
